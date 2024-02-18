@@ -12,6 +12,7 @@
   "author": "Keci",
   "license": "ISC",
   "dependencies": {
+    "readline": "^1.3.0",
     "yargs": "^17.7.2"
   }
 }
